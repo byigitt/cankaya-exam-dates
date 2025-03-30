@@ -26,4 +26,4 @@ go.work.sum
 
 # example response
 response.html
-ced.exe
+build/
