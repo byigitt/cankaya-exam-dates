@@ -14,7 +14,13 @@ go install
 
 ### Binary Release
 
-Download the latest release from the [releases page](https://github.com/byigitt/cankaya-exam-dates/releases).
+Download the latest release (v1.0.0) from [GitHub Releases](https://github.com/byigitt/cankaya-exam-dates/releases/tag/v1.0.0).
+
+Available for:
+
+- Windows
+- Linux
+- macOS
 
 ## Usage
 
